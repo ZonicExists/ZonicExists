@@ -82,8 +82,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZonicExists&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+  <img src="github-profile-trophy.svg" alt="GitHub Trophies"/>
 </p>
+
 
 ---
 
