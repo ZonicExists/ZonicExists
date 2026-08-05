@@ -56,7 +56,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZonicExists/ZonicExists/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZonicExists/ZonicExists/output/github-snake.svg">
-  &lt;img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ZonicExists/ZonicExists/output/github-snake.svg"&gt;
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ZonicExists/ZonicExists/output/github-snake.svg">
 </picture>
 
 
