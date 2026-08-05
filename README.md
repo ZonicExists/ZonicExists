@@ -51,6 +51,16 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZonicExists/ZonicExists/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZonicExists/ZonicExists/output/github-snake.svg">
+  &lt;img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ZonicExists/ZonicExists/output/github-snake.svg"&gt;
+</picture>
+
+---
+
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
@@ -59,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZonicExists&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/ZonicExists/ZonicExists/main/profile/streak.svg" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -71,7 +81,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZonicExists&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ZonicExists&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </p>
 
 ---
