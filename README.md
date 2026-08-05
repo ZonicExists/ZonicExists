@@ -42,11 +42,12 @@
 
 ### 📊 GitHub Activity & Statistics
 
-Replace `YOUR_GITHUB_USERNAME` with your exact GitHub username in the code below:
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ZonicExists&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Zonic's GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Zonic's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZonicExists&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
