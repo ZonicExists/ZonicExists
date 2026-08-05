@@ -1,4 +1,4 @@
-Name: Generate Trophies
+name: Generate Trophies
 
 on:
   schedule:
