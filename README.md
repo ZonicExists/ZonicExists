@@ -59,6 +59,7 @@
   &lt;img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ZonicExists/ZonicExists/output/github-snake.svg"&gt;
 </picture>
 
+
 ---
 
 ### 📊 GitHub Activity & Statistics
