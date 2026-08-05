@@ -1,47 +1,56 @@
-# Hi there, I'm Zonic 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Hi+There%2C+I'm+Zonic+%F0%9F%91%8B;Cybersecurity+%26+Systems+Dev;Welcome+to+my+profile!" alt="Typing SVG" />
+</h1>
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Project Name / Cyber Security Projects]**
-- 🌱 I’m currently learning **[Technology/Framework]**
-- 👯 I’m looking to collaborate on **[Open Source / Security Tools]**
-- 💬 Ask me about **Networking, Cybersecurity, Bash, C/C++, or Python**
-- ⚡ Fun fact: **[A fun or interesting fact about yourself]**
+<p align="center">
+  <a href="mailto:support@zonicisalive.com">
+    <img src="https://img.shields.io/badge/Email-support%40zonicisalive.com-00F0FF?style=for-the-badge&logo=fastly&logoColor=black" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### ⚡ About Me
+
+- 🔭 **Current Focus:** Developing low-level security scripts and networking utilities.
+- 🌱 **Learning:** Advanced kernel exploitation, network packet manipulation, and custom CLI architecture.
+- 💬 **Ask me about:** C/C++, Python automation, Linux bash scripting, and packet analysis.
+- 📬 **Contact:** Reach out directly at `support@zonicisalive.com`.
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
 #### Programming & Scripting
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-#### Networking & Security Tools
+#### Security & Analysis
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![PEAS](https://img.shields.io/badge/PEASS--ng-black?style=for-the-badge&logo=terminal&logoColor=white)
+![PEAS](https://img.shields.io/badge/PEASS--ng-000000?style=for-the-badge&logo=gnuterminal&logoColor=00FF00)
 
-#### DevOps & Version Control
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Statistics
+
+Replace `YOUR_GITHUB_USERNAME` with your exact GitHub username in the code below:
 
 <p align="center">
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=your-username&show_icons=true&theme=radial&hide_border=true" alt="Your GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=your-username&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Zonic's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:support@zonicisalive.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%" />
 </p>
