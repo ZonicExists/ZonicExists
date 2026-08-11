@@ -65,15 +65,6 @@
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ZonicExists&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Zonic's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZonicExists&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZonicExists/ZonicExists/main/profile/streak.svg" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZonicExists&theme=tokyo-night&hide_border=false" alt="Activity Graph" width="100%"/>
 </p> 
 
