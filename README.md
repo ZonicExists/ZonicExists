@@ -68,10 +68,6 @@
   <img src="https://raw.githubusercontent.com/ZonicExists/ZonicExists/main/profile/streak.svg" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZonicExists&theme=tokyo-night&hide_border=false" alt="Activity Graph" width="100%"/>
-</p> 
-
 ---
 
 ### 🏆 GitHub Trophies
