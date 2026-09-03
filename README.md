@@ -1,18 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Hi+there%2C+I'm+Prince+%E2%80%94+aka+Zonic;Systems+%26+automation+programmer;Learning+cybersecurity%2C+one+layer+at+a+time;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=F5F5F5&background=0A0A0A&center=true&vcenter=true&width=600&lines=Hi+there%2C+I'm+Prince+%E2%80%94+aka+Zonic;Systems+%26+automation+programmer;Learning+cybersecurity%2C+one+layer+at+a+time;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zonicisalive&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/zonicisalive?label=Followers&style=for-the-badge&color=00F0FF" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=zonicisalive&color=0A0A0A&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/zonicisalive?label=Followers&style=for-the-badge&color=0A0A0A&labelColor=141414&logoColor=F5F5F5" alt="Followers"/>
 </p>
 
 <p align="center">
   <a href="https://zonicisalive.com">
-    <img src="https://img.shields.io/badge/Portfolio-zonicisalive.com-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-zonicisalive.com-0A0A0A?style=for-the-badge&labelColor=141414&logo=vercel&logoColor=F5F5F5" alt="Portfolio"/>
   </a>
   <a href="mailto:support@zonicisalive.com">
-    <img src="https://img.shields.io/badge/Email-support@zonicisalive.com-00F0FF?style=for-the-badge&logo=fastly&logoColor=black" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-support@zonicisalive.com-0A0A0A?style=for-the-badge&labelColor=141414&logo=fastly&logoColor=F5F5F5" alt="Email"/>
   </a>
 </p>
 
@@ -34,17 +34,17 @@ mechanics, programming exploration, and building automation projects.
 
 **Programming & scripting**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=F5F5F5)
+![Bash](https://img.shields.io/badge/Bash-141414?style=for-the-badge&logo=gnubash&logoColor=F5F5F5)
+![C](https://img.shields.io/badge/C-141414?style=for-the-badge&logo=c&logoColor=F5F5F5)
+![Rust](https://img.shields.io/badge/Rust-141414?style=for-the-badge&logo=rust&logoColor=F5F5F5)
 
 **Systems & tools**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Wayland](https://img.shields.io/badge/Wayland-FFBC00?style=for-the-badge&logo=wayland&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-141414?style=for-the-badge&logo=linux&logoColor=F5F5F5)
+![Arch](https://img.shields.io/badge/Arch%20Linux-141414?style=for-the-badge&logo=archlinux&logoColor=F5F5F5)
+![Wayland](https://img.shields.io/badge/Wayland-141414?style=for-the-badge&logo=wayland&logoColor=F5F5F5)
+![Git](https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=F5F5F5)
 
 ---
 
@@ -75,5 +75,5 @@ mechanics, programming exploration, and building automation projects.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=100&section=footer" width="100%" />
 </p>

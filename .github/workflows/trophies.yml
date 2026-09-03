@@ -34,7 +34,7 @@ jobs:
             "https://github-profile-trophy-unserori.vercel.app"
           )
 
-          PARAMS="?username=zonicisalive&theme=tokyonight&no-frame=true&no-bg=true"
+          PARAMS="?username=zonicisalive&theme=gitdimmed&no-frame=true&no-bg=true"
           
           for url in "${URLS[@]}"; do
             echo "Attempting to fetch trophy from: $url"
