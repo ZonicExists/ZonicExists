@@ -51,9 +51,9 @@ mechanics, programming exploration, and building automation projects.
 ### 🐍 Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zonicisalive/ZonicExists/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zonicisalive/ZonicExists/output/github-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/zonicisalive/ZonicExists/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zonicisalive/zonicisalive/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zonicisalive/zonicisalive/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/zonicisalive/zonicisalive/output/github-snake.svg">
 </picture>
 
 ---
@@ -61,7 +61,7 @@ mechanics, programming exploration, and building automation projects.
 ### 📊 GitHub activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zonicisalive/ZonicExists/main/profile/streak.svg" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/zonicisalive/zonicisalive/main/profile/streak.svg" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@ mechanics, programming exploration, and building automation projects.
 ### 🏆 GitHub trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zonicisalive/ZonicExists/main/github-profile-trophy.svg" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/zonicisalive/zonicisalive/main/github-profile-trophy.svg" alt="GitHub Trophies"/>
 </p>
 
 ---
