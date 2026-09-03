@@ -51,8 +51,8 @@ mechanics, programming exploration, and building automation projects.
 ### GitHub stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-zonic2.vercel.app/api?username=zonicisalive&show_icons=true&hide_border=false&border_color=262626&bg_color=0A0A0A&title_color=F5F5F5&text_color=A3A3A3&icon_color=F5F5F5&ring_color=F5F5F5&count_private=false" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats-zonic2.vercel.app/api/top-langs/?username=zonicisalive&layout=compact&hide_border=false&border_color=262626&bg_color=0A0A0A&title_color=F5F5F5&text_color=A3A3A3" alt="Top Languages"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=zonicisalive&show_icons=true&hide_border=false&border_color=262626&bg_color=0A0A0A&title_color=F5F5F5&text_color=A3A3A3&icon_color=F5F5F5&ring_color=F5F5F5&count_private=false" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zonicisalive&layout=compact&hide_border=false&border_color=262626&bg_color=0A0A0A&title_color=F5F5F5&text_color=A3A3A3" alt="Top Languages"/>
 </p>
 
 ---
