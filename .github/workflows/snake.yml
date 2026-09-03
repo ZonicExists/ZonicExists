@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ZonicExists
+          github_user_name: zonicisalive
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
