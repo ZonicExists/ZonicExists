@@ -18,19 +18,19 @@
 
 ---
 
-### ⚡ About me
+### About me
 
 Teen student passionate about computer science and technology. Focused on understanding system
 mechanics, programming exploration, and building automation projects.
 
-- 🔭 **Building:** automation tooling and CLI utilities in Python, Bash, and C
-- 🌱 **Learning:** Google Cybersecurity — with CompTIA Security+, eJPT, and PNPT lined up next
-- 💬 **Ask me about:** Linux, shell scripting, systems internals, and automation
-- 🌐 **Site:** everything else about me lives at [zonicisalive.com](https://zonicisalive.com)
+- **Building:** automation tooling and CLI utilities in Python, Bash, and C
+- **Learning:** Google Cybersecurity — with CompTIA Security+, eJPT, and PNPT lined up next
+- **Ask me about:** Linux, shell scripting, systems internals, and automation
+- **Site:** everything else about me lives at [zonicisalive.com](https://zonicisalive.com)
 
 ---
 
-### 🛠 Tech stack & tools
+### Tech stack & tools
 
 **Programming & scripting**
 
@@ -48,7 +48,7 @@ mechanics, programming exploration, and building automation projects.
 
 ---
 
-### 📈 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats-zonic2.vercel.app/api?username=zonicisalive&show_icons=true&hide_border=false&border_color=262626&bg_color=0A0A0A&title_color=F5F5F5&text_color=A3A3A3&icon_color=F5F5F5&ring_color=F5F5F5&count_private=false" alt="GitHub Stats"/>
@@ -57,7 +57,7 @@ mechanics, programming exploration, and building automation projects.
 
 ---
 
-### 🐍 Contribution snake
+### Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zonicisalive/zonicisalive/output/github-snake-dark.svg">
@@ -67,7 +67,7 @@ mechanics, programming exploration, and building automation projects.
 
 ---
 
-### 📊 GitHub activity
+### GitHub activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zonicisalive/zonicisalive/main/profile/streak.svg" alt="GitHub Streak"/>
@@ -75,7 +75,7 @@ mechanics, programming exploration, and building automation projects.
 
 ---
 
-### 🏆 GitHub trophies
+### GitHub trophies
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zonicisalive/zonicisalive/main/github-profile-trophy.svg" alt="GitHub Trophies"/>
